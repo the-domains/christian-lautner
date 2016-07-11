@@ -12,6 +12,8 @@ color:
     - '#F2CA80'
     - '#5E5A59'
     - '#0D0D0D'
+opengraph:
+  appId: '913436692099822'
 layout_spectrum: 0.4176470523234457
 author:
   name: Christian Lautner
