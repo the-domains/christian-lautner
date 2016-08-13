@@ -1,29 +1,28 @@
-typography_spectrum: 0.11415503243915737
-content_rating:
-  adult: false
-color:
-  brandStrength: 0.25746073201298714
-  lightness: 0.7880025485064834
-  saturation: 0.6095832583960146
-  rhythmicContrast: 0.8245517523027956
-  brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
-opengraph:
-  appId: '913436692099822'
-layout_spectrum: 0.4176470523234457
 analytics:
   facebook: '306997042975680'
   google: UA-57412357-1
 author:
-  name: Christian Lautner
   email: welcome@christian-lautner.com
+  name: Christian Lautner
   url: www.christian-lautner.com
+color:
+  brandColors:
+    - '#EBF1FF'
+    - '#B9C4CA'
+    - '#800D14'
+    - '#677F81'
+    - '#151016'
+  brandStrength: 1
+  lightness: 0.788002
+  rhythmicContrast: 0.824551
+  saturation: 0.609583
+content_rating:
+  adult: false
+layout_spectrum: 0
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23cb764-5368-4332-b20a-97a01e0abcd1.jpg
 name: Christian Lautner
+opengraph:
+  appId: '913436692099822'
 title: Running Entrepreneur
-description: 'Work hard, have fun running'
+typography_spectrum: 1
