@@ -18,11 +18,11 @@ color:
   saturation: 0.609583
 content_rating:
   adult: false
-layout_spectrum: 0
+layout_spectrum: 1
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23cb764-5368-4332-b20a-97a01e0abcd1.jpg
 name: Christian Lautner
 opengraph:
   appId: '913436692099822'
 title: Running Entrepreneur
-typography_spectrum: 1
+typography_spectrum: 0
