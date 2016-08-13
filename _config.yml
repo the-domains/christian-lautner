@@ -12,13 +12,13 @@ color:
     - '#800D14'
     - '#677F81'
     - '#151016'
-  brandStrength: 1
-  lightness: 0.788002
-  rhythmicContrast: 0.824551
-  saturation: 0.609583
+  brandStrength: 0.668074
+  lightness: 0.816723
+  rhythmicContrast: 0.533784
+  saturation: 0.517736
 content_rating:
   adult: false
-layout_spectrum: 1
+layout_spectrum: 0.186655
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23cb764-5368-4332-b20a-97a01e0abcd1.jpg
 name: Christian Lautner
