@@ -1,7 +1,7 @@
 ---
 author: []
-dateModified: '2016-08-13T16:17:13.705Z'
-datePublished: '2016-08-13T16:17:26.287Z'
+dateModified: '2016-08-13T16:21:50.273Z'
+datePublished: '2016-08-13T16:21:58.185Z'
 description: 'Running with a view. '
 inFeed: true
 publisher: {}
