@@ -1,10 +1,6 @@
-analytics:
-  facebook: '306997042975680'
-  google: UA-57412357-1
-author:
-  email: welcome@christian-lautner.com
-  name: Christian Lautner
-  url: www.christian-lautner.com
+typography_spectrum: 0.329392
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#EBF1FF'
@@ -16,13 +12,17 @@ color:
   lightness: 0.647804
   rhythmicContrast: 0.816723
   saturation: 0.662162
-content_rating:
-  adult: false
+opengraph:
+  appId: '913436692099822'
 layout_spectrum: 0.758446
+analytics:
+  facebook: '306997042975680'
+  google: UA-57412357-1
+author:
+  email: welcome@christian-lautner.com
+  name: Christian Lautner
+  url: www.christian-lautner.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23cb764-5368-4332-b20a-97a01e0abcd1.jpg
 name: Christian Lautner
-opengraph:
-  appId: '913436692099822'
-title: Running Entrepreneur
-typography_spectrum: 0.329392
+title: Welcome
