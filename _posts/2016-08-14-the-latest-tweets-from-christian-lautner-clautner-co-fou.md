@@ -49,16 +49,14 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://twitter.com/clautner'
-datePublished: '2016-08-14T18:02:55.366Z'
-dateModified: '2016-08-14T18:02:38.256Z'
+datePublished: '2016-08-14T18:04:10.159Z'
+dateModified: '2016-08-14T18:04:09.235Z'
 title: ''
 via: {}
-starred: false
 sourcePath: _posts/2016-08-14-the-latest-tweets-from-christian-lautner-clautner-co-fou.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: the-latest-tweets-from-christian-lautner-clautner-co-fou/index.html
 _type: Comment
 _context: 'http://schema.org'
 
