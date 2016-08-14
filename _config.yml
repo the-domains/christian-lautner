@@ -1,4 +1,4 @@
-typography_spectrum: 0.06557890307158232
+typography_spectrum: 0.0011676754802465439
 content_rating:
   adult: false
 color:
@@ -14,7 +14,7 @@ color:
   saturation: 0.0437804467510432
 opengraph:
   appId: '913436692099822'
-layout_spectrum: 0.24292722344398499
+layout_spectrum: 0.4459380339831114
 analytics:
   facebook: '306997042975680'
   google: UA-57412357-1
