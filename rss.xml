@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Running Entrepreneur]]></title>
-        <description><![CDATA[Running Entrepreneur]]></description>
+        <title><![CDATA[Entrepreneurship & Running]]></title>
+        <description><![CDATA[Entrepreneurship & Running]]></description>
         <link>http://christian-lautner.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 16:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 14:56:53 GMT</lastBuildDate>
         <atom:link href="http://christian-lautner.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://twitter.com/flying_health</link>
             <guid isPermaLink="false">c8c5de03-7921-4aa5-905a-4580a0392aef</guid>
             <pubDate>Sat, 13 Aug 2016 16:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About me]]></title>
-            <description><![CDATA[<article><h1>About me</h1><p>Thanks for your interest.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87bada6f-30cf-44c9-aa4a-21c4c8043c12.jpg"></article>]]></description>
-            <link>https://www.flyinghealth.com</link>
-            <guid isPermaLink="false">44536962-ee30-45e6-97a2-003c117bf074</guid>
-            <pubDate>Sat, 13 Aug 2016 16:20:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
