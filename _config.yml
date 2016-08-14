@@ -1,4 +1,4 @@
-typography_spectrum: 0.0011676754802465439
+typography_spectrum: 0.329392
 content_rating:
   adult: false
 color:
@@ -8,13 +8,13 @@ color:
     - '#800D14'
     - '#677F81'
     - '#151016'
-  brandStrength: 0.24015524378046393
-  lightness: 0.7931257681921124
-  rhythmicContrast: 0.5259149766061455
-  saturation: 0.0437804467510432
+  brandStrength: 0.675676
+  lightness: 0.647804
+  rhythmicContrast: 0.816723
+  saturation: 0.662162
 opengraph:
   appId: '913436692099822'
-layout_spectrum: 0.4459380339831114
+layout_spectrum: 0.758446
 analytics:
   facebook: '306997042975680'
   google: UA-57412357-1
@@ -26,13 +26,11 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23cb764-5368-4332-b20a-97a01e0abcd1.jpg
 name: Christian Lautner
 navigation:
-  - name: About me
-    id: 44536962-ee30-45e6-97a2-003c117bf074
-    type: content
   - name: FLYING HEALTH
     url: 'https://flyinghealth.com'
     type: external
+  - name: About me
+    id: 44536962-ee30-45e6-97a2-003c117bf074
+    type: content
 title: Entrepreneurship & Running
 description: Welcome to my personal website.
-coverPrefs:
-  filter: false
