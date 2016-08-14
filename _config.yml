@@ -25,5 +25,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23cb764-5368-4332-b20a-97a01e0abcd1.jpg
 name: Christian Lautner
+navigation:
+  - name: About me
+    id: 44536962-ee30-45e6-97a2-003c117bf074
+    type: content
 title: Entrepreneurship & Running
 description: Welcome to my personal website.
