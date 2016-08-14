@@ -29,5 +29,8 @@ navigation:
   - name: About me
     id: 44536962-ee30-45e6-97a2-003c117bf074
     type: content
+  - name: FLYING HEALTH
+    url: 'https://flyinghealth.com'
+    type: external
 title: Entrepreneurship & Running
 description: Welcome to my personal website.
